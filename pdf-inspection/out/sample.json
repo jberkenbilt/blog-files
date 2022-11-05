@@ -1,0 +1,1560 @@
+{
+  "pages": [
+    {
+      "contents": [
+        "2 0 R"
+      ],
+      "images": [
+        {
+          "bitspercomponent": 8,
+          "colorspace": "/DeviceRGB",
+          "decodeparms": [
+            null
+          ],
+          "filter": [
+            "/DCTDecode"
+          ],
+          "filterable": false,
+          "height": 56,
+          "name": "/Im42",
+          "object": "42 0 R",
+          "width": 49
+        }
+      ],
+      "label": null,
+      "object": "1 0 R",
+      "outlines": [],
+      "pageposfrom1": 1
+    },
+    {
+      "contents": [
+        "46 0 R"
+      ],
+      "images": [
+        {
+          "bitspercomponent": 8,
+          "colorspace": "/DeviceRGB",
+          "decodeparms": [
+            null
+          ],
+          "filter": [
+            "/DCTDecode"
+          ],
+          "filterable": false,
+          "height": 56,
+          "name": "/Im42",
+          "object": "42 0 R",
+          "width": 49
+        }
+      ],
+      "label": null,
+      "object": "45 0 R",
+      "outlines": [],
+      "pageposfrom1": 2
+    }
+  ],
+  "qpdf": [
+    {
+      "jsonversion": 2,
+      "pdfversion": "1.6",
+      "pushedinheritedpageresources": false,
+      "calledgetallpages": true,
+      "maxobjectid": 130
+    },
+    {
+      "obj:1 0 R": {
+        "value": {
+          "/Contents": "2 0 R",
+          "/Group": {
+            "/CS": "/DeviceRGB",
+            "/I": true,
+            "/S": "/Transparency"
+          },
+          "/MediaBox": [
+            0,
+            0,
+            612,
+            792
+          ],
+          "/Parent": "50 0 R",
+          "/Resources": "87 0 R",
+          "/StructParents": 0,
+          "/Type": "/Page"
+        }
+      },
+      "obj:2 0 R": {
+        "stream": {
+          "datafile": "out/sample.json-2",
+          "dict": {
+            "/Filter": "/FlateDecode"
+          }
+        }
+      },
+      "obj:3 0 R": {
+        "value": 1092
+      },
+      "obj:4 0 R": {
+        "value": {
+          "/K": [
+            "5 0 R",
+            "6 0 R",
+            "7 0 R",
+            "8 0 R",
+            "9 0 R",
+            "10 0 R",
+            "11 0 R",
+            "12 0 R",
+            "14 0 R",
+            "15 0 R",
+            "16 0 R",
+            "17 0 R",
+            "18 0 R",
+            "19 0 R",
+            "20 0 R",
+            "21 0 R",
+            "22 0 R",
+            "23 0 R",
+            "24 0 R",
+            "25 0 R",
+            "40 0 R",
+            "48 0 R",
+            "49 0 R"
+          ],
+          "/P": "88 0 R",
+          "/Pg": "1 0 R",
+          "/S": "/Document",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:5 0 R": {
+        "value": {
+          "/A": "89 0 R",
+          "/K": [
+            0
+          ],
+          "/P": "4 0 R",
+          "/Pg": "1 0 R",
+          "/S": "/Standard",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:6 0 R": {
+        "value": {
+          "/A": "90 0 R",
+          "/P": "4 0 R",
+          "/Pg": "1 0 R",
+          "/S": "/Standard",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:7 0 R": {
+        "value": {
+          "/A": "91 0 R",
+          "/K": [
+            1
+          ],
+          "/P": "4 0 R",
+          "/Pg": "1 0 R",
+          "/S": "/Standard",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:8 0 R": {
+        "value": {
+          "/A": "92 0 R",
+          "/P": "4 0 R",
+          "/Pg": "1 0 R",
+          "/S": "/Standard",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:9 0 R": {
+        "value": {
+          "/A": "93 0 R",
+          "/K": [
+            2
+          ],
+          "/P": "4 0 R",
+          "/Pg": "1 0 R",
+          "/S": "/Standard",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:10 0 R": {
+        "value": {
+          "/A": "94 0 R",
+          "/P": "4 0 R",
+          "/Pg": "1 0 R",
+          "/S": "/Standard",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:11 0 R": {
+        "value": {
+          "/A": "95 0 R",
+          "/K": [
+            3
+          ],
+          "/P": "4 0 R",
+          "/Pg": "1 0 R",
+          "/S": "/Standard",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:12 0 R": {
+        "value": {
+          "/A": "97 0 R",
+          "/K": [
+            "13 0 R",
+            5,
+            6
+          ],
+          "/P": "4 0 R",
+          "/Pg": "1 0 R",
+          "/S": "/Standard",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:13 0 R": {
+        "value": {
+          "/A": "96 0 R",
+          "/K": [
+            4
+          ],
+          "/P": "12 0 R",
+          "/Pg": "1 0 R",
+          "/S": "/Span",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:14 0 R": {
+        "value": {
+          "/A": "98 0 R",
+          "/K": [
+            7,
+            8
+          ],
+          "/P": "4 0 R",
+          "/Pg": "1 0 R",
+          "/S": "/Standard",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:15 0 R": {
+        "value": {
+          "/A": "99 0 R",
+          "/K": [
+            9,
+            10
+          ],
+          "/P": "4 0 R",
+          "/Pg": "1 0 R",
+          "/S": "/Standard",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:16 0 R": {
+        "value": {
+          "/A": "101 0 R",
+          "/K": [
+            "41 0 R"
+          ],
+          "/P": "4 0 R",
+          "/Pg": "1 0 R",
+          "/S": "/Standard",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:17 0 R": {
+        "value": {
+          "/A": "102 0 R",
+          "/K": [
+            11
+          ],
+          "/P": "4 0 R",
+          "/Pg": "1 0 R",
+          "/S": "/Standard",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:18 0 R": {
+        "value": {
+          "/A": "103 0 R",
+          "/P": "4 0 R",
+          "/Pg": "1 0 R",
+          "/S": "/Standard",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:19 0 R": {
+        "value": {
+          "/A": "104 0 R",
+          "/P": "4 0 R",
+          "/Pg": "1 0 R",
+          "/S": "/Standard",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:20 0 R": {
+        "value": {
+          "/A": "105 0 R",
+          "/P": "4 0 R",
+          "/Pg": "1 0 R",
+          "/S": "/Standard",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:21 0 R": {
+        "value": {
+          "/A": "106 0 R",
+          "/K": [
+            12,
+            13,
+            14
+          ],
+          "/P": "4 0 R",
+          "/Pg": "1 0 R",
+          "/S": "/Standard",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:22 0 R": {
+        "value": {
+          "/A": "107 0 R",
+          "/P": "4 0 R",
+          "/Pg": "1 0 R",
+          "/S": "/Standard",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:23 0 R": {
+        "value": {
+          "/A": "108 0 R",
+          "/K": [
+            15
+          ],
+          "/P": "4 0 R",
+          "/Pg": "1 0 R",
+          "/S": "/Standard",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:24 0 R": {
+        "value": {
+          "/A": "109 0 R",
+          "/P": "4 0 R",
+          "/Pg": "1 0 R",
+          "/S": "/Standard",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:25 0 R": {
+        "value": {
+          "/A": "124 0 R",
+          "/K": [
+            "26 0 R",
+            "33 0 R"
+          ],
+          "/P": "4 0 R",
+          "/Pg": "1 0 R",
+          "/S": "/Table",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:26 0 R": {
+        "value": {
+          "/A": "116 0 R",
+          "/K": [
+            "27 0 R",
+            "29 0 R",
+            "31 0 R"
+          ],
+          "/P": "25 0 R",
+          "/Pg": "1 0 R",
+          "/S": "/TR",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:27 0 R": {
+        "value": {
+          "/A": "111 0 R",
+          "/K": [
+            "28 0 R"
+          ],
+          "/P": "26 0 R",
+          "/Pg": "1 0 R",
+          "/S": "/TD",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:28 0 R": {
+        "value": {
+          "/A": "110 0 R",
+          "/K": [
+            16
+          ],
+          "/P": "27 0 R",
+          "/Pg": "1 0 R",
+          "/S": "/Table Contents",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:29 0 R": {
+        "value": {
+          "/A": "113 0 R",
+          "/K": [
+            "30 0 R"
+          ],
+          "/P": "26 0 R",
+          "/Pg": "1 0 R",
+          "/S": "/TD",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:30 0 R": {
+        "value": {
+          "/A": "112 0 R",
+          "/K": [
+            17
+          ],
+          "/P": "29 0 R",
+          "/Pg": "1 0 R",
+          "/S": "/Table Contents",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:31 0 R": {
+        "value": {
+          "/A": "115 0 R",
+          "/K": [
+            "32 0 R"
+          ],
+          "/P": "26 0 R",
+          "/Pg": "1 0 R",
+          "/S": "/TD",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:32 0 R": {
+        "value": {
+          "/A": "114 0 R",
+          "/K": [
+            18
+          ],
+          "/P": "31 0 R",
+          "/Pg": "1 0 R",
+          "/S": "/Table Contents",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:33 0 R": {
+        "value": {
+          "/A": "123 0 R",
+          "/K": [
+            "34 0 R",
+            "36 0 R",
+            "38 0 R"
+          ],
+          "/P": "25 0 R",
+          "/Pg": "1 0 R",
+          "/S": "/TR",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:34 0 R": {
+        "value": {
+          "/A": "118 0 R",
+          "/K": [
+            "35 0 R"
+          ],
+          "/P": "33 0 R",
+          "/Pg": "1 0 R",
+          "/S": "/TD",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:35 0 R": {
+        "value": {
+          "/A": "117 0 R",
+          "/K": [
+            19
+          ],
+          "/P": "34 0 R",
+          "/Pg": "1 0 R",
+          "/S": "/Table Contents",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:36 0 R": {
+        "value": {
+          "/A": "120 0 R",
+          "/K": [
+            "37 0 R"
+          ],
+          "/P": "33 0 R",
+          "/Pg": "1 0 R",
+          "/S": "/TD",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:37 0 R": {
+        "value": {
+          "/A": "119 0 R",
+          "/K": [
+            20
+          ],
+          "/P": "36 0 R",
+          "/Pg": "1 0 R",
+          "/S": "/Table Contents",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:38 0 R": {
+        "value": {
+          "/A": "122 0 R",
+          "/K": [
+            "39 0 R"
+          ],
+          "/P": "33 0 R",
+          "/Pg": "1 0 R",
+          "/S": "/TD",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:39 0 R": {
+        "value": {
+          "/A": "121 0 R",
+          "/K": [
+            21
+          ],
+          "/P": "38 0 R",
+          "/Pg": "1 0 R",
+          "/S": "/Table Contents",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:40 0 R": {
+        "value": {
+          "/A": "125 0 R",
+          "/P": "4 0 R",
+          "/Pg": "1 0 R",
+          "/S": "/Standard",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:41 0 R": {
+        "value": {
+          "/A": "100 0 R",
+          "/K": [
+            22
+          ],
+          "/P": "16 0 R",
+          "/Pg": "1 0 R",
+          "/S": "/Figure",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:42 0 R": {
+        "stream": {
+          "datafile": "out/sample.json-42",
+          "dict": {
+            "/BitsPerComponent": 8,
+            "/ColorSpace": "/DeviceRGB",
+            "/Filter": "/DCTDecode",
+            "/Height": 56,
+            "/SMask": "43 0 R",
+            "/Subtype": "/Image",
+            "/Type": "/XObject",
+            "/Width": 49
+          }
+        }
+      },
+      "obj:43 0 R": {
+        "stream": {
+          "datafile": "out/sample.json-43",
+          "dict": {
+            "/BitsPerComponent": 8,
+            "/ColorSpace": "/DeviceGray",
+            "/Decode": [
+              1,
+              0
+            ],
+            "/Filter": "/FlateDecode",
+            "/Height": 56,
+            "/Subtype": "/Image",
+            "/Type": "/XObject",
+            "/Width": 49
+          }
+        }
+      },
+      "obj:44 0 R": {
+        "value": 140
+      },
+      "obj:45 0 R": {
+        "value": {
+          "/Contents": "46 0 R",
+          "/Group": {
+            "/CS": "/DeviceRGB",
+            "/I": true,
+            "/S": "/Transparency"
+          },
+          "/MediaBox": [
+            0,
+            0,
+            612,
+            792
+          ],
+          "/Parent": "50 0 R",
+          "/Resources": "87 0 R",
+          "/StructParents": 1,
+          "/Type": "/Page"
+        }
+      },
+      "obj:46 0 R": {
+        "stream": {
+          "datafile": "out/sample.json-46",
+          "dict": {
+            "/Filter": "/FlateDecode"
+          }
+        }
+      },
+      "obj:47 0 R": {
+        "value": 257
+      },
+      "obj:48 0 R": {
+        "value": {
+          "/A": "126 0 R",
+          "/P": "4 0 R",
+          "/Pg": "45 0 R",
+          "/S": "/Standard",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:49 0 R": {
+        "value": {
+          "/A": "127 0 R",
+          "/K": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "/P": "4 0 R",
+          "/Pg": "45 0 R",
+          "/S": "/Standard",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:50 0 R": {
+        "value": {
+          "/Count": 2,
+          "/Kids": [
+            "1 0 R",
+            "45 0 R"
+          ],
+          "/MediaBox": [
+            0,
+            0,
+            612,
+            792
+          ],
+          "/Resources": "87 0 R",
+          "/Type": "/Pages"
+        }
+      },
+      "obj:51 0 R": {
+        "stream": {
+          "datafile": "out/sample.json-51",
+          "dict": {
+            "/Filter": "/FlateDecode",
+            "/Length1": 7188
+          }
+        }
+      },
+      "obj:52 0 R": {
+        "value": 3751
+      },
+      "obj:53 0 R": {
+        "value": {
+          "/Ascent": 0,
+          "/CapHeight": 820,
+          "/Descent": 0,
+          "/Flags": 4,
+          "/FontBBox": [
+            -210,
+            -239,
+            813,
+            820
+          ],
+          "/FontFile2": "51 0 R",
+          "/FontName": "/EAAAAA+NotoSansHebrew-Regular",
+          "/ItalicAngle": 0,
+          "/StemV": 80,
+          "/Type": "/FontDescriptor"
+        }
+      },
+      "obj:54 0 R": {
+        "stream": {
+          "datafile": "out/sample.json-54",
+          "dict": {
+            "/Filter": "/FlateDecode"
+          }
+        }
+      },
+      "obj:55 0 R": {
+        "value": {
+          "/BaseFont": "/EAAAAA+NotoSansHebrew-Regular",
+          "/FirstChar": 0,
+          "/FontDescriptor": "53 0 R",
+          "/LastChar": 9,
+          "/Subtype": "/TrueType",
+          "/ToUnicode": "54 0 R",
+          "/Type": "/Font",
+          "/Widths": [
+            600,
+            270,
+            627,
+            660,
+            542,
+            632,
+            662,
+            301,
+            601,
+            685
+          ]
+        }
+      },
+      "obj:56 0 R": {
+        "stream": {
+          "datafile": "out/sample.json-56",
+          "dict": {
+            "/Filter": "/FlateDecode",
+            "/Length1": 20756
+          }
+        }
+      },
+      "obj:57 0 R": {
+        "value": 7861
+      },
+      "obj:58 0 R": {
+        "value": {
+          "/Ascent": 0,
+          "/CapHeight": 1232,
+          "/Descent": 0,
+          "/Flags": 4,
+          "/FontBBox": [
+            -1020,
+            -462,
+            1792,
+            1232
+          ],
+          "/FontFile2": "56 0 R",
+          "/FontName": "/FAAAAA+DejaVuSans",
+          "/ItalicAngle": 0,
+          "/StemV": 80,
+          "/Type": "/FontDescriptor"
+        }
+      },
+      "obj:59 0 R": {
+        "stream": {
+          "datafile": "out/sample.json-59",
+          "dict": {
+            "/Filter": "/FlateDecode"
+          }
+        }
+      },
+      "obj:60 0 R": {
+        "value": {
+          "/BaseFont": "/FAAAAA+DejaVuSans",
+          "/FirstChar": 0,
+          "/FontDescriptor": "58 0 R",
+          "/LastChar": 13,
+          "/Subtype": "/TrueType",
+          "/ToUnicode": "59 0 R",
+          "/Type": "/Font",
+          "/Widths": [
+            600,
+            634,
+            611,
+            974,
+            615,
+            751,
+            634,
+            411,
+            817,
+            633,
+            277,
+            634,
+            634,
+            317
+          ]
+        }
+      },
+      "obj:61 0 R": {
+        "stream": {
+          "datafile": "out/sample.json-61",
+          "dict": {
+            "/Filter": "/FlateDecode",
+            "/Length1": 11808
+          }
+        }
+      },
+      "obj:62 0 R": {
+        "value": 5374
+      },
+      "obj:63 0 R": {
+        "value": {
+          "/Ascent": 0,
+          "/CapHeight": 1028,
+          "/Descent": 0,
+          "/Flags": 5,
+          "/FontBBox": [
+            -558,
+            -374,
+            716,
+            1028
+          ],
+          "/FontFile2": "61 0 R",
+          "/FontName": "/DAAAAA+DejaVuSansMono",
+          "/ItalicAngle": 0,
+          "/StemV": 80,
+          "/Type": "/FontDescriptor"
+        }
+      },
+      "obj:64 0 R": {
+        "stream": {
+          "datafile": "out/sample.json-64",
+          "dict": {
+            "/Filter": "/FlateDecode"
+          }
+        }
+      },
+      "obj:65 0 R": {
+        "value": {
+          "/BaseFont": "/DAAAAA+DejaVuSansMono",
+          "/FirstChar": 0,
+          "/FontDescriptor": "63 0 R",
+          "/LastChar": 1,
+          "/Subtype": "/TrueType",
+          "/ToUnicode": "64 0 R",
+          "/Type": "/Font",
+          "/Widths": [
+            602,
+            602
+          ]
+        }
+      },
+      "obj:66 0 R": {
+        "stream": {
+          "datafile": "out/sample.json-66",
+          "dict": {
+            "/Filter": "/FlateDecode",
+            "/Length1": 10796
+          }
+        }
+      },
+      "obj:67 0 R": {
+        "value": 6891
+      },
+      "obj:68 0 R": {
+        "value": {
+          "/Ascent": 0,
+          "/CapHeight": 980,
+          "/Descent": 0,
+          "/Flags": 69,
+          "/FontBBox": [
+            -481,
+            -300,
+            822,
+            980
+          ],
+          "/FontFile2": "66 0 R",
+          "/FontName": "/HAAAAA+LiberationMono-Italic",
+          "/ItalicAngle": -30,
+          "/StemV": 80,
+          "/Type": "/FontDescriptor"
+        }
+      },
+      "obj:69 0 R": {
+        "stream": {
+          "datafile": "out/sample.json-69",
+          "dict": {
+            "/Filter": "/FlateDecode"
+          }
+        }
+      },
+      "obj:70 0 R": {
+        "value": {
+          "/BaseFont": "/HAAAAA+LiberationMono-Italic",
+          "/FirstChar": 0,
+          "/FontDescriptor": "68 0 R",
+          "/LastChar": 22,
+          "/Subtype": "/TrueType",
+          "/ToUnicode": "69 0 R",
+          "/Type": "/Font",
+          "/Widths": [
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600
+          ]
+        }
+      },
+      "obj:71 0 R": {
+        "stream": {
+          "datafile": "out/sample.json-71",
+          "dict": {
+            "/Filter": "/FlateDecode",
+            "/Length1": 11852
+          }
+        }
+      },
+      "obj:72 0 R": {
+        "value": 7592
+      },
+      "obj:73 0 R": {
+        "value": {
+          "/Ascent": 0,
+          "/CapHeight": 980,
+          "/Descent": 0,
+          "/Flags": 5,
+          "/FontBBox": [
+            -481,
+            -300,
+            741,
+            980
+          ],
+          "/FontFile2": "71 0 R",
+          "/FontName": "/GAAAAA+LiberationMono",
+          "/ItalicAngle": 0,
+          "/StemV": 80,
+          "/Type": "/FontDescriptor"
+        }
+      },
+      "obj:74 0 R": {
+        "stream": {
+          "datafile": "out/sample.json-74",
+          "dict": {
+            "/Filter": "/FlateDecode"
+          }
+        }
+      },
+      "obj:75 0 R": {
+        "value": {
+          "/BaseFont": "/GAAAAA+LiberationMono",
+          "/FirstChar": 0,
+          "/FontDescriptor": "73 0 R",
+          "/LastChar": 30,
+          "/Subtype": "/TrueType",
+          "/ToUnicode": "74 0 R",
+          "/Type": "/Font",
+          "/Widths": [
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600
+          ]
+        }
+      },
+      "obj:76 0 R": {
+        "stream": {
+          "datafile": "out/sample.json-76",
+          "dict": {
+            "/Filter": "/FlateDecode",
+            "/Length1": 13224
+          }
+        }
+      },
+      "obj:77 0 R": {
+        "value": 7756
+      },
+      "obj:78 0 R": {
+        "value": {
+          "/Ascent": 0,
+          "/CapHeight": 981,
+          "/Descent": 0,
+          "/Flags": 4,
+          "/FontBBox": [
+            -543,
+            -303,
+            1277,
+            981
+          ],
+          "/FontFile2": "76 0 R",
+          "/FontName": "/BAAAAA+LiberationSerif",
+          "/ItalicAngle": 0,
+          "/StemV": 80,
+          "/Type": "/FontDescriptor"
+        }
+      },
+      "obj:79 0 R": {
+        "stream": {
+          "datafile": "out/sample.json-79",
+          "dict": {
+            "/Filter": "/FlateDecode"
+          }
+        }
+      },
+      "obj:80 0 R": {
+        "value": {
+          "/BaseFont": "/BAAAAA+LiberationSerif",
+          "/FirstChar": 0,
+          "/FontDescriptor": "78 0 R",
+          "/LastChar": 23,
+          "/Subtype": "/TrueType",
+          "/ToUnicode": "79 0 R",
+          "/Type": "/Font",
+          "/Widths": [
+            777,
+            610,
+            500,
+            277,
+            389,
+            250,
+            443,
+            777,
+            500,
+            277,
+            443,
+            556,
+            722,
+            556,
+            333,
+            250,
+            333,
+            333,
+            500,
+            500,
+            277,
+            500,
+            500,
+            443
+          ]
+        }
+      },
+      "obj:81 0 R": {
+        "stream": {
+          "datafile": "out/sample.json-81",
+          "dict": {
+            "/Filter": "/FlateDecode",
+            "/Length1": 10712
+          }
+        }
+      },
+      "obj:82 0 R": {
+        "value": 7263
+      },
+      "obj:83 0 R": {
+        "value": {
+          "/Ascent": 0,
+          "/CapHeight": 1056,
+          "/Descent": 0,
+          "/Flags": 5,
+          "/FontBBox": [
+            -152,
+            -270,
+            641,
+            1056
+          ],
+          "/FontFile2": "81 0 R",
+          "/FontName": "/CAAAAA+NotoMono",
+          "/ItalicAngle": 0,
+          "/StemV": 80,
+          "/Type": "/FontDescriptor"
+        }
+      },
+      "obj:84 0 R": {
+        "stream": {
+          "datafile": "out/sample.json-84",
+          "dict": {
+            "/Filter": "/FlateDecode"
+          }
+        }
+      },
+      "obj:85 0 R": {
+        "value": {
+          "/BaseFont": "/CAAAAA+NotoMono",
+          "/FirstChar": 0,
+          "/FontDescriptor": "83 0 R",
+          "/LastChar": 38,
+          "/Subtype": "/TrueType",
+          "/ToUnicode": "84 0 R",
+          "/Type": "/Font",
+          "/Widths": [
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600,
+            600
+          ]
+        }
+      },
+      "obj:86 0 R": {
+        "value": {
+          "/F1": "80 0 R",
+          "/F2": "85 0 R",
+          "/F3": "65 0 R",
+          "/F4": "55 0 R",
+          "/F5": "60 0 R",
+          "/F6": "75 0 R",
+          "/F7": "70 0 R"
+        }
+      },
+      "obj:87 0 R": {
+        "value": {
+          "/Font": "86 0 R",
+          "/ProcSet": [
+            "/PDF",
+            "/Text",
+            "/ImageC",
+            "/ImageI",
+            "/ImageB"
+          ],
+          "/XObject": {
+            "/Im42": "42 0 R"
+          }
+        }
+      },
+      "obj:88 0 R": {
+        "value": {
+          "/K": [
+            "4 0 R"
+          ],
+          "/ParentTree": "128 0 R",
+          "/RoleMap": {
+            "/Document": "/Document",
+            "/Figure": "/Figure",
+            "/Span": "/Span",
+            "/Standard": "/P",
+            "/TD": "/TD",
+            "/TR": "/TR",
+            "/Table": "/Table",
+            "/Table Contents": "/P"
+          },
+          "/Type": "/StructTreeRoot"
+        }
+      },
+      "obj:89 0 R": {
+        "value": {
+          "/O": "/Layout",
+          "/Placement": "/Block"
+        }
+      },
+      "obj:90 0 R": {
+        "value": {
+          "/O": "/Layout",
+          "/Placement": "/Block"
+        }
+      },
+      "obj:91 0 R": {
+        "value": {
+          "/O": "/Layout",
+          "/Placement": "/Block"
+        }
+      },
+      "obj:92 0 R": {
+        "value": {
+          "/O": "/Layout",
+          "/Placement": "/Block"
+        }
+      },
+      "obj:93 0 R": {
+        "value": {
+          "/O": "/Layout",
+          "/Placement": "/Block"
+        }
+      },
+      "obj:94 0 R": {
+        "value": {
+          "/O": "/Layout",
+          "/Placement": "/Block"
+        }
+      },
+      "obj:95 0 R": {
+        "value": {
+          "/O": "/Layout",
+          "/Placement": "/Block"
+        }
+      },
+      "obj:96 0 R": {
+        "value": {
+          "/O": "/Layout",
+          "/TextDecorationType": "/Underline"
+        }
+      },
+      "obj:97 0 R": {
+        "value": {
+          "/O": "/Layout",
+          "/Placement": "/Block"
+        }
+      },
+      "obj:98 0 R": {
+        "value": {
+          "/O": "/Layout",
+          "/Placement": "/Block"
+        }
+      },
+      "obj:99 0 R": {
+        "value": {
+          "/O": "/Layout",
+          "/Placement": "/Block"
+        }
+      },
+      "obj:100 0 R": {
+        "value": {
+          "/BBox": [
+            226.6,
+            526,
+            263.35,
+            568
+          ],
+          "/Height": 0.84,
+          "/O": "/Layout",
+          "/Placement": "/Block",
+          "/Width": 0.735
+        }
+      },
+      "obj:101 0 R": {
+        "value": {
+          "/O": "/Layout",
+          "/Placement": "/Block"
+        }
+      },
+      "obj:102 0 R": {
+        "value": {
+          "/O": "/Layout",
+          "/Placement": "/Block"
+        }
+      },
+      "obj:103 0 R": {
+        "value": {
+          "/O": "/Layout",
+          "/Placement": "/Block"
+        }
+      },
+      "obj:104 0 R": {
+        "value": {
+          "/O": "/Layout",
+          "/Placement": "/Block"
+        }
+      },
+      "obj:105 0 R": {
+        "value": {
+          "/O": "/Layout",
+          "/Placement": "/Block"
+        }
+      },
+      "obj:106 0 R": {
+        "value": {
+          "/O": "/Layout",
+          "/Placement": "/Block"
+        }
+      },
+      "obj:107 0 R": {
+        "value": {
+          "/O": "/Layout",
+          "/Placement": "/Block"
+        }
+      },
+      "obj:108 0 R": {
+        "value": {
+          "/O": "/Layout",
+          "/Placement": "/Block"
+        }
+      },
+      "obj:109 0 R": {
+        "value": {
+          "/O": "/Layout",
+          "/Placement": "/Block"
+        }
+      },
+      "obj:110 0 R": {
+        "value": {
+          "/O": "/Layout",
+          "/Placement": "/Block"
+        }
+      },
+      "obj:111 0 R": {
+        "value": {
+          "/Height": 0.331,
+          "/O": "/Layout",
+          "/Placement": "/Inline",
+          "/Width": 3.324
+        }
+      },
+      "obj:112 0 R": {
+        "value": {
+          "/O": "/Layout",
+          "/Placement": "/Block"
+        }
+      },
+      "obj:113 0 R": {
+        "value": {
+          "/Height": 0.331,
+          "/O": "/Layout",
+          "/Placement": "/Inline",
+          "/Width": 3.324
+        }
+      },
+      "obj:114 0 R": {
+        "value": {
+          "/O": "/Layout",
+          "/Placement": "/Block"
+        }
+      },
+      "obj:115 0 R": {
+        "value": {
+          "/Height": 0.331,
+          "/O": "/Layout",
+          "/Placement": "/Inline",
+          "/Width": 3.324
+        }
+      },
+      "obj:116 0 R": {
+        "value": {
+          "/O": "/Layout",
+          "/Placement": "/Block"
+        }
+      },
+      "obj:117 0 R": {
+        "value": {
+          "/O": "/Layout",
+          "/Placement": "/Block"
+        }
+      },
+      "obj:118 0 R": {
+        "value": {
+          "/Height": 0.331,
+          "/O": "/Layout",
+          "/Placement": "/Inline",
+          "/Width": 3.324
+        }
+      },
+      "obj:119 0 R": {
+        "value": {
+          "/O": "/Layout",
+          "/Placement": "/Block"
+        }
+      },
+      "obj:120 0 R": {
+        "value": {
+          "/Height": 0.331,
+          "/O": "/Layout",
+          "/Placement": "/Inline",
+          "/Width": 3.324
+        }
+      },
+      "obj:121 0 R": {
+        "value": {
+          "/O": "/Layout",
+          "/Placement": "/Block"
+        }
+      },
+      "obj:122 0 R": {
+        "value": {
+          "/Height": 0.331,
+          "/O": "/Layout",
+          "/Placement": "/Inline",
+          "/Width": 3.324
+        }
+      },
+      "obj:123 0 R": {
+        "value": {
+          "/O": "/Layout",
+          "/Placement": "/Block"
+        }
+      },
+      "obj:124 0 R": {
+        "value": {
+          "/BBox": [
+            56.7,
+            412.2,
+            555.3,
+            445.35
+          ],
+          "/Height": 0.663,
+          "/O": "/Layout",
+          "/Placement": "/Block",
+          "/SpaceAfter": 0.001,
+          "/Width": 9.972
+        }
+      },
+      "obj:125 0 R": {
+        "value": {
+          "/O": "/Layout",
+          "/Placement": "/Block"
+        }
+      },
+      "obj:126 0 R": {
+        "value": {
+          "/O": "/Layout",
+          "/Placement": "/Block"
+        }
+      },
+      "obj:127 0 R": {
+        "value": {
+          "/O": "/Layout",
+          "/Placement": "/Block"
+        }
+      },
+      "obj:128 0 R": {
+        "value": {
+          "/Nums": [
+            0,
+            [
+              "5 0 R",
+              "7 0 R",
+              "9 0 R",
+              "11 0 R",
+              "13 0 R",
+              "12 0 R",
+              "12 0 R",
+              "14 0 R",
+              "14 0 R",
+              "15 0 R",
+              "15 0 R",
+              "17 0 R",
+              "21 0 R",
+              "21 0 R",
+              "21 0 R",
+              "23 0 R",
+              "28 0 R",
+              "30 0 R",
+              "32 0 R",
+              "35 0 R",
+              "37 0 R",
+              "39 0 R",
+              "41 0 R"
+            ],
+            1,
+            [
+              "49 0 R",
+              "49 0 R",
+              "49 0 R",
+              "49 0 R",
+              "49 0 R"
+            ]
+          ]
+        }
+      },
+      "obj:129 0 R": {
+        "value": {
+          "/Lang": "u:en-US",
+          "/MarkInfo": {
+            "/Marked": true
+          },
+          "/OpenAction": [
+            "1 0 R",
+            "/XYZ",
+            null,
+            null,
+            0
+          ],
+          "/Pages": "50 0 R",
+          "/StructTreeRoot": "88 0 R",
+          "/Type": "/Catalog"
+        }
+      },
+      "obj:130 0 R": {
+        "value": {
+          "/CreationDate": "u:D:20221105142130-04'00'",
+          "/Creator": "u:Writer",
+          "/Producer": "u:LibreOffice 7.3"
+        }
+      },
+      "trailer": {
+        "value": {
+          "/DocChecksum": "/49645B799585CD936D66CAFE33E151C3",
+          "/ID": [
+            "b:e398375625c592946b95436e1de7b107",
+            "b:e398375625c592946b95436e1de7b107"
+          ],
+          "/Info": "130 0 R",
+          "/Root": "129 0 R",
+          "/Size": 131
+        }
+      }
+    }
+  ]
+}
