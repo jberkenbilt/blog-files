@@ -85,9 +85,7 @@
       "obj:2 0 R": {
         "stream": {
           "datafile": "out/sample.json-2",
-          "dict": {
-            "/Filter": "/FlateDecode"
-          }
+          "dict": {}
         }
       },
       "obj:3 0 R": {
@@ -579,7 +577,6 @@
               1,
               0
             ],
-            "/Filter": "/FlateDecode",
             "/Height": 56,
             "/Subtype": "/Image",
             "/Type": "/XObject",
@@ -613,9 +610,7 @@
       "obj:46 0 R": {
         "stream": {
           "datafile": "out/sample.json-46",
-          "dict": {
-            "/Filter": "/FlateDecode"
-          }
+          "dict": {}
         }
       },
       "obj:47 0 R": {
@@ -667,7 +662,6 @@
         "stream": {
           "datafile": "out/sample.json-51",
           "dict": {
-            "/Filter": "/FlateDecode",
             "/Length1": 7188
           }
         }
@@ -697,9 +691,7 @@
       "obj:54 0 R": {
         "stream": {
           "datafile": "out/sample.json-54",
-          "dict": {
-            "/Filter": "/FlateDecode"
-          }
+          "dict": {}
         }
       },
       "obj:55 0 R": {
@@ -729,7 +721,6 @@
         "stream": {
           "datafile": "out/sample.json-56",
           "dict": {
-            "/Filter": "/FlateDecode",
             "/Length1": 20756
           }
         }
@@ -759,9 +750,7 @@
       "obj:59 0 R": {
         "stream": {
           "datafile": "out/sample.json-59",
-          "dict": {
-            "/Filter": "/FlateDecode"
-          }
+          "dict": {}
         }
       },
       "obj:60 0 R": {
@@ -795,7 +784,6 @@
         "stream": {
           "datafile": "out/sample.json-61",
           "dict": {
-            "/Filter": "/FlateDecode",
             "/Length1": 11808
           }
         }
@@ -825,9 +813,7 @@
       "obj:64 0 R": {
         "stream": {
           "datafile": "out/sample.json-64",
-          "dict": {
-            "/Filter": "/FlateDecode"
-          }
+          "dict": {}
         }
       },
       "obj:65 0 R": {
@@ -849,7 +835,6 @@
         "stream": {
           "datafile": "out/sample.json-66",
           "dict": {
-            "/Filter": "/FlateDecode",
             "/Length1": 10796
           }
         }
@@ -879,9 +864,7 @@
       "obj:69 0 R": {
         "stream": {
           "datafile": "out/sample.json-69",
-          "dict": {
-            "/Filter": "/FlateDecode"
-          }
+          "dict": {}
         }
       },
       "obj:70 0 R": {
@@ -924,7 +907,6 @@
         "stream": {
           "datafile": "out/sample.json-71",
           "dict": {
-            "/Filter": "/FlateDecode",
             "/Length1": 11852
           }
         }
@@ -954,9 +936,7 @@
       "obj:74 0 R": {
         "stream": {
           "datafile": "out/sample.json-74",
-          "dict": {
-            "/Filter": "/FlateDecode"
-          }
+          "dict": {}
         }
       },
       "obj:75 0 R": {
@@ -1007,7 +987,6 @@
         "stream": {
           "datafile": "out/sample.json-76",
           "dict": {
-            "/Filter": "/FlateDecode",
             "/Length1": 13224
           }
         }
@@ -1037,9 +1016,7 @@
       "obj:79 0 R": {
         "stream": {
           "datafile": "out/sample.json-79",
-          "dict": {
-            "/Filter": "/FlateDecode"
-          }
+          "dict": {}
         }
       },
       "obj:80 0 R": {
@@ -1083,7 +1060,6 @@
         "stream": {
           "datafile": "out/sample.json-81",
           "dict": {
-            "/Filter": "/FlateDecode",
             "/Length1": 10712
           }
         }
@@ -1113,9 +1089,7 @@
       "obj:84 0 R": {
         "stream": {
           "datafile": "out/sample.json-84",
-          "dict": {
-            "/Filter": "/FlateDecode"
-          }
+          "dict": {}
         }
       },
       "obj:85 0 R": {
